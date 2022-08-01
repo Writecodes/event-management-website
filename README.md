@@ -1,2 +1,2 @@
-# event-management-website
-Online event management website using HTML,CSS and Javascript
+# clock 
+clock using HTML,CSS and Javascript
